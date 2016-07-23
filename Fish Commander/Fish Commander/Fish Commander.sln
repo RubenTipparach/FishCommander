@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B456AA46-3248-AFB8-4E4B-C2CCC63DFF63}") = "Fish Commander", "Assembly-CSharp.csproj", "{5CCC2078-5550-D755-BE1B-A75E4DDDEE6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CCC2078-5550-D755-BE1B-A75E4DDDEE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCC2078-5550-D755-BE1B-A75E4DDDEE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCC2078-5550-D755-BE1B-A75E4DDDEE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCC2078-5550-D755-BE1B-A75E4DDDEE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
